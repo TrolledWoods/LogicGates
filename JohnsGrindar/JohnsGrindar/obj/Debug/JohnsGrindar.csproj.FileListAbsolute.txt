@@ -1,0 +1,7 @@
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\bin\Debug\JohnsGrindar.exe.config
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\bin\Debug\JohnsGrindar.exe
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\bin\Debug\JohnsGrindar.pdb
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\obj\Debug\JohnsGrindar.csproj.CoreCompileInputs.cache
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\obj\Debug\JohnsGrindar.exe
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\obj\Debug\JohnsGrindar.pdb
+C:\Users\erihor\OneDrive\Visual Studio\JohnsGrindar\JohnsGrindar\obj\Debug\JohnsGrindar.csprojResolveAssemblyReference.cache
